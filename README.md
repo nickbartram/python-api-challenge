@@ -18,6 +18,7 @@ It does, in fact, get warmer the closer you are to the equator. Further discussi
 ## References
 Class materials were used extensively for this assignment, as well as: 
 - stackoverflow.com 
+    - (1) https://stackoverflow.com/questions/7045729/automatically-position-text-box-in-plot
 - Xpert Learning Assistant 
 - ChatGPT.com
 
